@@ -2,7 +2,6 @@ package com.company.resource;
 
 import com.company.dto.CommentCreateDTO;
 import com.company.dto.CommentDTO;
-import lombok.NonNull;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
